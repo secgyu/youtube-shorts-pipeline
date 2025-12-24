@@ -68,3 +68,6 @@ Thumbs.db
 .coverage
 htmlcov/
 
+# === Personal Notes ===
+TODO.md
+
